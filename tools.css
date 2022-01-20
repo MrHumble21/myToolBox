@@ -1,0 +1,14 @@
+.cols{
+    border: 1px solid red;
+    text-align: center;
+    padding: 2rem;
+}
+
+*{
+    text-decoration: none !important;
+    color: #4FBDBA !important;
+}
+
+body{
+    background-color: #041C32;
+}
